@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://github.com/Jaroslaw-Kusicielek/fcBarca
+https://jaroslaw-kusicielek.github.io/fcBarca/
 
 ## Description
 
